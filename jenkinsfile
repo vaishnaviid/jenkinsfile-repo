@@ -11,7 +11,7 @@ pipeline {
         stage('welcome') {
             steps {
                 echo 'welcome to pipelines'
-            }
+            }            
         }
     }
 }
